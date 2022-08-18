@@ -1,3 +1,5 @@
+# Author: Zhang, Ren-Gang
+
 import sys
 
 keys = ['mutation_per_site', 'n_estimation', 'theta_per_site_median', 'theta_per_site_2_5', 'theta_per_site_97_5', 'year', 'Ne_median', 'Ne_2_5', 'Ne_97_5', 'Ne_12_5', 'Ne_87_5']
